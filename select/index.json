@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "フロムトーキョー",
   "base_artist": "天馬咲希",
-  "createdAt": "2025-12-03T08:06:05.112290Z",
+  "createdAt": "2026-03-23T14:46:28.655528Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -77,12 +77,29 @@
       "path": "select/09_フロムトーキョー_-instrumental-_Leo_need.lrc"
     },
     {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "フロムトーキョー",
+      "artist": "夏代孝明, 渡辺拓也, cillia",
+      "has_synced": true,
+      "path": "select/10_フロムトーキョー_夏代孝明,_渡辺拓也,_cillia.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "フロムトーキョー",
       "artist": "天馬咲希",
       "has_synced": false,
       "path": "select/pl_01_フロムトーキョー_天馬咲希.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "フロムトーキョー",
+      "artist": "天馬咲希",
+      "has_synced": true,
+      "path": "select/localdb_01_フロムトーキョー_天馬咲希.lrc",
+      "repo_name": "tpc9wH_JPfk"
     }
   ]
 }
